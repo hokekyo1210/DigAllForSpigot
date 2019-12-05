@@ -1,0 +1,7 @@
+name: DigAll
+version: @version@
+main: hokekyo1210.spigot.plugin.digall.DigAll
+api-version: 1.13
+authors: [hokekyo1210]
+description: DigAll plugin for Spigot
+website: https://github.com/hokekyo1210
